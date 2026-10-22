@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Himeji (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Himeji (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
