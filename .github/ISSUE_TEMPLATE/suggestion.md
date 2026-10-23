@@ -1,4 +1,4 @@
-﻿---
+---
 name: Suggestion
 title: "[FEAT] "
 about: Suggest a feature.
