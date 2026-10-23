@@ -50,9 +50,16 @@
     <PropertyGroup> above to opt out.
   -->
   <ItemGroup>
-    <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="*" />
-    <PackageReference Include="Microsoft.WindowsAppSDK" Version="*" />
-    <PackageReference Include="Microsoft.Windows.SDK.BuildTools.WinApp" Version="*" />
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="*" />
+    <PackageReference Include="CommunityToolkit.WinUI.Controls.SettingsControls" Version="*" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="*" />
+    <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="*-*" />
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="*-*" />
+    <PackageReference Include="Microsoft.Windows.SDK.BuildTools.WinApp" Version="*-*" />
+    <PackageReference Include="WinUI.TableView" Version="*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\" />
   </ItemGroup>
 
   <!--

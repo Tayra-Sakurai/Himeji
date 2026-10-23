@@ -12,7 +12,7 @@
   <Identity
     Name="e40bf055-8427-45e9-b8d9-fb2025f2940d"
     Publisher="CN=taira"
-    Version="1.0.0.0" />
+    Version="0.0.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="e40bf055-8427-45e9-b8d9-fb2025f2940d" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
