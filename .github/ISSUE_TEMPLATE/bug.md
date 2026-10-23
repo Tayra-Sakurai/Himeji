@@ -1,10 +1,10 @@
 ﻿---
 title: "[BUG]: "
 name: Bug Report
-description: Reporting a bug.
+about: Reporting a bug.
 assignees: Tayra-Sakurai
 labels: bug
-type: bug
+type: Bug
 
 ---
 **Bug Summary**
