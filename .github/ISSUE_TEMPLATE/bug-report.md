@@ -1,7 +1,7 @@
 ﻿---
-title: "[BUG]: "
 name: Bug Report
-about: Reporting a bug.
+about: Reporting a bug
+title: "[BUG]: "
 assignees: Tayra-Sakurai
 labels: bug
 type: Bug
