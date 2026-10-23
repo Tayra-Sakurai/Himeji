@@ -7,6 +7,7 @@ labels: bug
 type: Bug
 
 ---
+
 **Bug Summary**
 Please tell us a brief summary of the bug.
 
