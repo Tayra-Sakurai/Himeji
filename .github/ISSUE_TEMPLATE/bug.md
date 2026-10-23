@@ -2,7 +2,7 @@
 title: "[BUG]: "
 name: Bug Report
 description: Reporting a bug.
-assignees: [Tayra-Sakurai]
+assignees: Tayra-Sakurai
 labels: bug
 type: bug
 
