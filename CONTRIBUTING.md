@@ -8,7 +8,7 @@ Please take a moment to review this document to ensure a smooth and effective co
 
 ## Table of Contents
 
-1. [Code of Conduct](#code of conduct)
+1. [Code of Conduct](#code-of-conduct)
 2. [How Can I Contribute?](#how-can-i-contribute)
    - [Reporting Bugs](#reporting-bugs)
    - [Suggesting Features](#suggesting-features)
@@ -80,9 +80,7 @@ Feature requests are always welcome! When submitting a feature proposal:
    git clone https://github.com/Tayra-Sakurai/Himeji.git
    cd your-repo-name
    ```
-
-
-2. Open the solution file (`.sln`) in Visual Studio 2022.
+2. Open the solution file (`.slnx`) in Visual Studio 2026.
 3. Restore NuGet packages:
    ```bash
    dotnet restore
