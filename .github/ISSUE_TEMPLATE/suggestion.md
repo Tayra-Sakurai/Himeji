@@ -2,10 +2,8 @@
 name: Suggestion
 title: "[FEAT]: "
 description: Suggest a feature.
-labels:
-  - enhancement
-assignees:
-  - Tayra-Sakurai
+labels: enhancement
+assignees: [Tayra-Sakurai]
 
 ---
 **Short Summary**
