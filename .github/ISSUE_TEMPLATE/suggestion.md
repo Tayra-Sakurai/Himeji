@@ -1,6 +1,6 @@
 ﻿---
 name: Suggestion
-title: "[FEAT]: "
+title: "[FEAT] "
 about: Suggest a feature.
 labels: enhancement
 assignees: Tayra-Sakurai
